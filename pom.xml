@@ -35,7 +35,7 @@
   <properties>
 
     <!-- Java -->
-    <java.version>17</java.version>
+    <java.version>21</java.version>
 
     <!-- Testcontainers -->
     <testcontainers.version>1.21.3</testcontainers.version>
